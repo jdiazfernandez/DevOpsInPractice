@@ -10,4 +10,4 @@
 
 
 
-<style> section.page-header > a.btn {display: none;} </style>
+<style> a.btn {display: none;} </style>
