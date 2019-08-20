@@ -40,4 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [ABOUT](./about.md)
 
-[Hello] (https://jdiazfernandez.github.io/DevOpsInPractice/hello.html)
+[Hello](https://jdiazfernandez.github.io/DevOpsInPractice/hello.html)
+[Hello bis](./hello.html)
