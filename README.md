@@ -39,4 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Pages
 
 [ABOUT](./about.md)
-[Hello] (./hello.html)
+
+[Hello] (https://jdiazfernandez.github.io/DevOpsInPractice/hello.html)
