@@ -4,4 +4,10 @@
 
 <div> Mi capa </div>
 
-<style> .page-header.btn {display: none;} </style>
+
+
+
+
+
+
+<style> section.page-header > a.btn {display: none;} </style>
