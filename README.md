@@ -6,7 +6,7 @@ This study conducts an exploratory case on practicing DevOps in software-intensi
 
 [Web of the study](https://blogs.upm.es/devopsinpractice/)
 
-[Interview_ES](https://jdiazfernandez.github.io/DevOpsInPractice/interview_ES.md)
+[Interview_ES](https://github.com/jdiazfernandez/DevOpsInPractice/blob/master/interview_ES.md)
 
 [Interview_EN] TBU
 
