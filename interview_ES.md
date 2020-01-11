@@ -115,15 +115,22 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 62.	¿Las herramientas de prueba están integradas con el resto de las herramientas?
 63.	¿Se ha implementado un enfoque de entrega continua (CD continuous delivery)? Entendiendo CD como la práctica que automatiza el proceso de release, mediante el cual cada cambio que se sube al control de versiones se despliega y valida en un entorno similar al de producción mediante las pruebas pertinentes, asegurando, por tanto, que el software se encuentra en todo momento en un estado desplegable (green build)
 64.	¿Sobre qué tipo infraestructura se despliega? 
-	Entorno virtual (ej. Vmware, VitualBox), contenedores (Docker, etc.), automatización u orquestación de imágenes virtuales o contenedores (ej. Vagrant, Swarm, Kubernetes, Mesos, etc.)
-	Nube pública (ej. AWS, GAE, Azure, etc.), nube privada, otros (ej. OpenStack, Cloud Foundry, etc.)
-	Creación automática a partir de “bare metal”: PXE, herramientas de configuración automática de sistemas operativos (ej. Red Hat Kickstart)
+
+    	Entorno virtual (ej. Vmware, VitualBox), contenedores (Docker, etc.), automatización u orquestación de imágenes virtuales o contenedores (ej. Vagrant, Swarm, Kubernetes, Mesos, etc.)
+  
+    	Nube pública (ej. AWS, GAE, Azure, etc.), nube privada, otros (ej. OpenStack, Cloud Foundry, etc.)
+  
+    	Creación automática a partir de “bare metal”: PXE, herramientas de configuración automática de sistemas operativos (ej. Red Hat Kickstart)
+  
 65.	El equipo ¿ha automatizada la creación y configuración de infraestructura para entornos? (Infrastructure as Code, IaC) ¿Se utilizan herramientas para la gestión de la configuración de la infraestructura (e.j., Puppet, Chef, Ansible, etc.)
 66.	¿Es posible crear y configurar entornos de desarrollo, pruebas, (pre)producción bajo demanda (environment self-service, on-demand)? Por ej. un desarrollador podría crear su propio entorno de pruebas sin tickets ni esperas. 
 67.	¿Los scripts de configuración para gestionar la infraestructura son versionados, validados (testing infrastructure changes), y repetibles?
 68.	¿Cuál es la práctica habitual ante un cambio en la configuración?
-	Configurar y reparar el entorno ya existente
-	Es más fácil crear uno nuevo y tirar el entorno existente (principio de estructura inmutable)
+
+      	Configurar y reparar el entorno ya existente
+
+      	Es más fácil crear uno nuevo y tirar el entorno existente (principio de estructura inmutable)
+
 69.	La automatización de la infraestructura ¿permite en todo momento mantener la consistencia de los entornos por ej. los cambios son replicados en todos los entornos automáticamente?
 70.	¿Se ha implementado un enfoque de despliegue continuo (CD continuous deployment)? Entendiendo CD como la práctica que automatiza el despliegue en producción, es decir cada commit/cambio que pasa todas las etapas del pipeline de despliegue se despliega automáticamente en producción sin ningún paso manual
 71.	¿Las herramientas de automatización del proceso de release y despliegue (pipeline de despliegue) están integradas con el resto de las herramientas?
