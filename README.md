@@ -1,44 +1,19 @@
-## Welcome to GitHub Pages
+##DevOps in Practice project
 
-You can use the [editor on GitHub](https://github.com/jdiazfernandez/DevOpsInPractice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is an international exploratory case study on the DevOps culture and practice.
+This study conducts an exploratory case on practicing DevOps in software-intensive multinational companies in order to provide patterns of DevOps practices and identify their benefits and barriers. The case study is being conducted through interviews to relevant stakeholders in these companies.
+[Web of the study] (https://blogs.upm.es/devopsinpractice/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Interview_ES](https://jdiazfernandez.github.io/DevOpsInPractice/interview_ES.html)
+[Interview_EN] TBU
 
-### Markdown
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
 
-```markdown
-Syntax highlighted code block
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdiazfernandez/DevOpsInPractice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### Pages
-
-[ABOUT](./about.md)
-
-[Hello](https://jdiazfernandez.github.io/DevOpsInPractice/hello.html)
-[Hello bis](./hello.html)
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
