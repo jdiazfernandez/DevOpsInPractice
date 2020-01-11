@@ -43,7 +43,9 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 30.	¿Se promueve una cultura basada en el aprendizaje y mejora continua, tanto a nivel de producto y negocio como de proceso (ej. redefinir procesos, patrones de comunicación, etc.)?
 31.	¿Se han promovido cambios culturales del tipo
 	Disminución de la sobrecarga de la burocracia
+
 	Reducción del número de aprobaciones fuera del equipo (construir confianza para acelerar determinadas aprobaciones)
+
 	Empoderamiento del equipo (planificación, priorización, toma de decisiones)
 
 ## Prácticas relacionadas con el Equipo
@@ -57,11 +59,17 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 
 ## Prácticas orientadas a la Colaboración
 39.	¿Considera que se han roto los silos y que se promueve la colaboración entre todos los stakeholders involucrados en el desarrollo y entrega del software? 
+
 	Colaboración puntual para traspaso de trabajo  
+
 	Colaboración, pero no hay cultura de un solo equipo, debido a problemas relacionados con el tamaño u organización del departamento de TI, recursos humanos, convenios, barreras culturales, etc.
+
 	Alto grado de colaboración. Cultura de equipo, no hay silos. Se trabaja como un equipo único excepto seguridad
+
 	Alto grado de colaboración. Cultura de equipo, no hay silos. (DevSecOps)
+
 	Otro ____________________________________________________________
+
 40.	¿Qué mecanismos de feedback y transparencia se utilizan dentro del equipo (desarrollo y operación)?
 41.	¿Se realizan reuniones diarias?
 42.	¿Se realizan reuniones regulares para hacer retrospectivas, reviews, grooming sessions?
@@ -88,11 +96,17 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 59.	¿Se crean pruebas automáticas como parte del trabajo diario? ¿Se aplica Test-driven Develoment (TDD)?
 60.	¿Se automatizan tantas pruebas manuales como sea posible?
 61.	¿Se realizan pruebas en todos los niveles? Escala del 1-5, donde 5 significa que se realizan todas las pruebas indicadas a continuación:
+
 	Pruebas unitarias, análisis de código estático, análisis de cobertura de pruebas, comprobación de estilos, bad smells.
+
 	Pruebas de usabilidad y aceptación.
+
 	Pruebas de integración.
+
 	Pruebas de seguridad, rendimiento, etc.
+
 	Otros requisitos no funcionales
+
 62.	¿Las herramientas de prueba están integradas con el resto de las herramientas?
 63.	¿Se ha implementado un enfoque de entrega continua (CD continuous delivery)? Entendiendo CD como la práctica que automatiza el proceso de release, mediante el cual cada cambio que se sube al control de versiones se despliega y valida en un entorno similar al de producción mediante las pruebas pertinentes, asegurando, por tanto, que el software se encuentra en todo momento en un estado desplegable (green build)
 64.	¿Sobre qué tipo infraestructura se despliega? 
@@ -121,11 +135,17 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 80.	¿Resulta fácil recuperar información de la infraestructura de métricas (mediante radiadores de información o self-service APIs)? Es decir, ¿son las métricas accesibles por todos los stakeholders relevantes: negocio, desarrollo y operación?
 81.	¿Se crean métricas como parte del trabajo diario a todos los niveles?
 82.	Tipos de métricas
+
 	Comportamiento de los usuarios 
+
 	Negocio (e.g., sales transactions, revenue of sales transactions, user signups, A/B testing results, etc.)
+
 	Aplicación (e.g., transaction times, user response times, application faults, etc.)
+
 	Entornos (e.g., server traffic, CPU load, disk usage, etc.)
+
 	Pipeline de despliegue (e.g. code build/test/deployment history, lead times, deployment frequencies, test coverage, etc.)
+
 83.	Cuantitativamente, en una escala del 1-5 donde 1 (<10), 2 (10-20), 3 (20-30), 4 (30-40) to 5 (>40) ¿Cuántas métricas se generan?
 84.	¿Se realiza análisis de anomalías sobre las métricas o se ha implementado algún sistema de alertas ante algún tipo de anomalías?
 85.	Lead time (cuánto tiempo tardaría tu equipo en desplegar un cambio sobre una línea de código y ponerla en producción en cliente)
