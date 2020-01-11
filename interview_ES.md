@@ -16,7 +16,7 @@ Todos los datos serán tratados confidencialmente y de forma anónima mediante l
 10.	Año (aprox.) de formación de la empresa: de reciente creación (posterior 2010), entre 2000 y 2010, o anterior.
 
 ## Proceso de adopción DevOps
-11.	¿Qué problemas tenían o qué posibles causas motivaron a su empresa a iniciar una transformación hacia DevOps, su cultura y prácticas?
+    11.	¿Qué problemas tenían o qué posibles causas motivaron a su empresa a iniciar una transformación hacia DevOps, su cultura y prácticas?
 12.	¿Qué resultados esperaba obtener su empresa con la adopción de DevOps?
 13.	¿Qué tipo de estrategia fue adoptada en este proceso de transformación: top-down, bottom-up o sándwich? 
 14.	¿Cómo valora la involucración de la alta dirección (alta, media, baja) en el proceso de transformación? Es decir ¿existe un apoyo para la cultura y prácticas DevOps?
