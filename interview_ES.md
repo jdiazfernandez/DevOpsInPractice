@@ -16,7 +16,8 @@ Todos los datos serán tratados confidencialmente y de forma anónima mediante l
 10.	Año (aprox.) de formación de la empresa: de reciente creación (posterior 2010), entre 2000 y 2010, o anterior.
 
 ## Proceso de adopción DevOps
-    11.	¿Qué problemas tenían o qué posibles causas motivaron a su empresa a iniciar una transformación hacia DevOps, su cultura y prácticas?
+11.	¿Qué problemas tenían o qué posibles causas motivaron a su empresa a iniciar una transformación hacia DevOps, su cultura y prácticas?
+    
 12.	¿Qué resultados esperaba obtener su empresa con la adopción de DevOps?
 13.	¿Qué tipo de estrategia fue adoptada en este proceso de transformación: top-down, bottom-up o sándwich? 
 14.	¿Cómo valora la involucración de la alta dirección (alta, media, baja) en el proceso de transformación? Es decir ¿existe un apoyo para la cultura y prácticas DevOps?
@@ -29,6 +30,7 @@ Todos los datos serán tratados confidencialmente y de forma anónima mediante l
 
 ## Equipo DevOps (visión de un equipo en particular)
 21.	Tamaño del equipo DevOps: 
+    
 22.	¿Cuál es la estructura del equipo DevOps (roles/capacidades)? 
 23.	¿Cuál es el rol (responsabilidades diarias) del entrevistado dentro del equipo DevOps? 
 24.	¿Hace cuánto tiempo que se formó el equipo DevOps?
@@ -51,6 +53,7 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 
 ## Prácticas relacionadas con el Equipo
 32.	¿Tanto desarrollo como operaciones se encuentran bajo la misma gestión/responsable?
+    
 33.	¿Tiene capacidad para auto-organizarse?
 34.	¿El equipo es full-stack y multidisciplinario?
 35.	¿El propietario del producto es parte del equipo? Si la respuesta es negativa ¿Quién especifica los requisitos y ‘features’?
@@ -84,6 +87,7 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 
 ## Prácticas orientadas a la Compartición (Sharing)
 50.	¿El equipo comparte el espacio de trabajo (Dev y Ops)?
+    
 51.	¿Se utiliza la documentación (formal) como principal medio para compartir información o más bien otros tipos de medios menos formales (aplicaciones de chats, wikis, etc.)?
 52.	¿Se promueve el uso de interfaces públicas (es decir se comparte código con otros equipos y se reutiliza código de otros), se reutilizan patrones tanto de desarrollo, pruebas, o despliegue?
 53.	¿Existe una cultura que promueva que los empleados compartan sus ideas de mejoras de producto y proceso (experiencia, lecciones aprendidas, etc.) tanto de forma interna a la organización como fuera de la organización (conferencias, meetups)? 
