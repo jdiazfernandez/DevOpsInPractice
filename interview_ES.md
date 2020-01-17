@@ -17,6 +17,7 @@ Todos los datos serán tratados confidencialmente y de forma anónima mediante l
 
 ## Proceso de adopción DevOps
 11.	¿Qué problemas tenían o qué posibles causas motivaron a su empresa a iniciar una transformación hacia DevOps, su cultura y prácticas?
+    
 12.	¿Qué resultados esperaba obtener su empresa con la adopción de DevOps?
 13.	¿Qué tipo de estrategia fue adoptada en este proceso de transformación: top-down, bottom-up o sándwich? 
 14.	¿Cómo valora la involucración de la alta dirección (alta, media, baja) en el proceso de transformación? Es decir ¿existe un apoyo para la cultura y prácticas DevOps?
@@ -29,6 +30,7 @@ Todos los datos serán tratados confidencialmente y de forma anónima mediante l
 
 ## Equipo DevOps (visión de un equipo en particular)
 21.	Tamaño del equipo DevOps: 
+    
 22.	¿Cuál es la estructura del equipo DevOps (roles/capacidades)? 
 23.	¿Cuál es el rol (responsabilidades diarias) del entrevistado dentro del equipo DevOps? 
 24.	¿Hace cuánto tiempo que se formó el equipo DevOps?
@@ -42,14 +44,16 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 29.	¿Se promueve una cultura basada en la experimentación continua y rápida que guíe el desarrollo y la innovación (experimental organizational culture)?
 30.	¿Se promueve una cultura basada en el aprendizaje y mejora continua, tanto a nivel de producto y negocio como de proceso (ej. redefinir procesos, patrones de comunicación, etc.)?
 31.	¿Se han promovido cambios culturales del tipo
-	Disminución de la sobrecarga de la burocracia
 
-	Reducción del número de aprobaciones fuera del equipo (construir confianza para acelerar determinadas aprobaciones)
+    	Disminución de la sobrecarga de la burocracia
 
-	Empoderamiento del equipo (planificación, priorización, toma de decisiones)
+    	Reducción del número de aprobaciones fuera del equipo (construir confianza para acelerar determinadas aprobaciones)
+
+    	Empoderamiento del equipo (planificación, priorización, toma de decisiones)
 
 ## Prácticas relacionadas con el Equipo
 32.	¿Tanto desarrollo como operaciones se encuentran bajo la misma gestión/responsable?
+    
 33.	¿Tiene capacidad para auto-organizarse?
 34.	¿El equipo es full-stack y multidisciplinario?
 35.	¿El propietario del producto es parte del equipo? Si la respuesta es negativa ¿Quién especifica los requisitos y ‘features’?
@@ -60,15 +64,15 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 ## Prácticas orientadas a la Colaboración
 39.	¿Considera que se han roto los silos y que se promueve la colaboración entre todos los stakeholders involucrados en el desarrollo y entrega del software? 
 
-	Colaboración puntual para traspaso de trabajo  
+    	Colaboración puntual para traspaso de trabajo  
 
-	Colaboración, pero no hay cultura de un solo equipo, debido a problemas relacionados con el tamaño u organización del departamento de TI, recursos humanos, convenios, barreras culturales, etc.
+    	Colaboración, pero no hay cultura de un solo equipo, debido a problemas relacionados con el tamaño u organización del departamento de TI, recursos humanos, convenios, barreras culturales, etc.
 
-	Alto grado de colaboración. Cultura de equipo, no hay silos. Se trabaja como un equipo único excepto seguridad
+    	Alto grado de colaboración. Cultura de equipo, no hay silos. Se trabaja como un equipo único excepto seguridad
 
-	Alto grado de colaboración. Cultura de equipo, no hay silos. (DevSecOps)
+    	Alto grado de colaboración. Cultura de equipo, no hay silos. (DevSecOps)
 
-	Otro ____________________________________________________________
+    	Otro ____________________________________________________________
 
 40.	¿Qué mecanismos de feedback y transparencia se utilizan dentro del equipo (desarrollo y operación)?
 41.	¿Se realizan reuniones diarias?
@@ -83,6 +87,7 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 
 ## Prácticas orientadas a la Compartición (Sharing)
 50.	¿El equipo comparte el espacio de trabajo (Dev y Ops)?
+    
 51.	¿Se utiliza la documentación (formal) como principal medio para compartir información o más bien otros tipos de medios menos formales (aplicaciones de chats, wikis, etc.)?
 52.	¿Se promueve el uso de interfaces públicas (es decir se comparte código con otros equipos y se reutiliza código de otros), se reutilizan patrones tanto de desarrollo, pruebas, o despliegue?
 53.	¿Existe una cultura que promueva que los empleados compartan sus ideas de mejoras de producto y proceso (experiencia, lecciones aprendidas, etc.) tanto de forma interna a la organización como fuera de la organización (conferencias, meetups)? 
@@ -97,28 +102,35 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 60.	¿Se automatizan tantas pruebas manuales como sea posible?
 61.	¿Se realizan pruebas en todos los niveles? Escala del 1-5, donde 5 significa que se realizan todas las pruebas indicadas a continuación:
 
-	Pruebas unitarias, análisis de código estático, análisis de cobertura de pruebas, comprobación de estilos, bad smells.
+    	Pruebas unitarias, análisis de código estático, análisis de cobertura de pruebas, comprobación de estilos, bad smells.
 
-	Pruebas de usabilidad y aceptación.
+    	Pruebas de usabilidad y aceptación.
 
-	Pruebas de integración.
+    	Pruebas de integración.
 
-	Pruebas de seguridad, rendimiento, etc.
+    	Pruebas de seguridad, rendimiento, etc.
 
-	Otros requisitos no funcionales
+    	Otros requisitos no funcionales
 
 62.	¿Las herramientas de prueba están integradas con el resto de las herramientas?
 63.	¿Se ha implementado un enfoque de entrega continua (CD continuous delivery)? Entendiendo CD como la práctica que automatiza el proceso de release, mediante el cual cada cambio que se sube al control de versiones se despliega y valida en un entorno similar al de producción mediante las pruebas pertinentes, asegurando, por tanto, que el software se encuentra en todo momento en un estado desplegable (green build)
 64.	¿Sobre qué tipo infraestructura se despliega? 
-	Entorno virtual (ej. Vmware, VitualBox), contenedores (Docker, etc.), automatización u orquestación de imágenes virtuales o contenedores (ej. Vagrant, Swarm, Kubernetes, Mesos, etc.)
-	Nube pública (ej. AWS, GAE, Azure, etc.), nube privada, otros (ej. OpenStack, Cloud Foundry, etc.)
-	Creación automática a partir de “bare metal”: PXE, herramientas de configuración automática de sistemas operativos (ej. Red Hat Kickstart)
+
+    	Entorno virtual (ej. Vmware, VitualBox), contenedores (Docker, etc.), automatización u orquestación de imágenes virtuales o contenedores (ej. Vagrant, Swarm, Kubernetes, Mesos, etc.)
+  
+    	Nube pública (ej. AWS, GAE, Azure, etc.), nube privada, otros (ej. OpenStack, Cloud Foundry, etc.)
+  
+    	Creación automática a partir de “bare metal”: PXE, herramientas de configuración automática de sistemas operativos (ej. Red Hat Kickstart)
+  
 65.	El equipo ¿ha automatizada la creación y configuración de infraestructura para entornos? (Infrastructure as Code, IaC) ¿Se utilizan herramientas para la gestión de la configuración de la infraestructura (e.j., Puppet, Chef, Ansible, etc.)
 66.	¿Es posible crear y configurar entornos de desarrollo, pruebas, (pre)producción bajo demanda (environment self-service, on-demand)? Por ej. un desarrollador podría crear su propio entorno de pruebas sin tickets ni esperas. 
 67.	¿Los scripts de configuración para gestionar la infraestructura son versionados, validados (testing infrastructure changes), y repetibles?
 68.	¿Cuál es la práctica habitual ante un cambio en la configuración?
-	Configurar y reparar el entorno ya existente
-	Es más fácil crear uno nuevo y tirar el entorno existente (principio de estructura inmutable)
+
+      	Configurar y reparar el entorno ya existente
+
+      	Es más fácil crear uno nuevo y tirar el entorno existente (principio de estructura inmutable)
+
 69.	La automatización de la infraestructura ¿permite en todo momento mantener la consistencia de los entornos por ej. los cambios son replicados en todos los entornos automáticamente?
 70.	¿Se ha implementado un enfoque de despliegue continuo (CD continuous deployment)? Entendiendo CD como la práctica que automatiza el despliegue en producción, es decir cada commit/cambio que pasa todas las etapas del pipeline de despliegue se despliega automáticamente en producción sin ningún paso manual
 71.	¿Las herramientas de automatización del proceso de release y despliegue (pipeline de despliegue) están integradas con el resto de las herramientas?
@@ -136,15 +148,15 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
 81.	¿Se crean métricas como parte del trabajo diario a todos los niveles?
 82.	Tipos de métricas
 
-	Comportamiento de los usuarios 
+    	Comportamiento de los usuarios 
 
-	Negocio (e.g., sales transactions, revenue of sales transactions, user signups, A/B testing results, etc.)
+    	Negocio (e.g., sales transactions, revenue of sales transactions, user signups, A/B testing results, etc.)
 
-	Aplicación (e.g., transaction times, user response times, application faults, etc.)
+    	Aplicación (e.g., transaction times, user response times, application faults, etc.)
 
-	Entornos (e.g., server traffic, CPU load, disk usage, etc.)
+    	Entornos (e.g., server traffic, CPU load, disk usage, etc.)
 
-	Pipeline de despliegue (e.g. code build/test/deployment history, lead times, deployment frequencies, test coverage, etc.)
+    	Pipeline de despliegue (e.g. code build/test/deployment history, lead times, deployment frequencies, test coverage, etc.)
 
 83.	Cuantitativamente, en una escala del 1-5 donde 1 (<10), 2 (10-20), 3 (20-30), 4 (30-40) to 5 (>40) ¿Cuántas métricas se generan?
 84.	¿Se realiza análisis de anomalías sobre las métricas o se ha implementado algún sistema de alertas ante algún tipo de anomalías?
