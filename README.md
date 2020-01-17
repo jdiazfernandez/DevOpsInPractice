@@ -10,6 +10,8 @@ This study conducts an exploratory case on practicing DevOps in software-intensi
 
 [Interview_EN] TBU
 
+[CodeBook](https://github.com/jdiazfernandez/DevOpsInPractice/blob/master/codebook.md)
+
 ## Questions & Comments
 
 Please contact yesica.diaz(AT)upm.es in case of questions.
