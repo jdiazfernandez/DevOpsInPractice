@@ -30,6 +30,7 @@
 
 ## P05 BARRIERS TO INNOVATION/EXPERIMENTATION
 ● P05a: the team do not have autonomy (flexibility) to make decisions
+
 ● P05b: the team has external dependencies to innovate or introduce changes — External dependencies to the (devops) team refer to managers or other teams (security, ddbb, qa, etc.) who take decisions, and this slows changes (innovation and experimentation)
 
 ## P06 ORGANIZATIONAL/CULTURAL SILOS
