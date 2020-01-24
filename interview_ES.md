@@ -122,7 +122,7 @@ Si el proceso no es iterativo ¿tiene el equipo establecido el límite de Work i
   
     	Creación automática a partir de “bare metal”: PXE, herramientas de configuración automática de sistemas operativos (ej. Red Hat Kickstart)
   
-65.	El equipo ¿ha automatizada la creación y configuración de infraestructura para entornos? (Infrastructure as Code, IaC) ¿Se utilizan herramientas para la gestión de la configuración de la infraestructura (e.j., Puppet, Chef, Ansible, etc.)
+65.	El equipo ¿ha automatizado la creación y configuración de infraestructura para entornos? (Infrastructure as Code, IaC) ¿Se utilizan herramientas para la gestión de la configuración de la infraestructura (e.j., Puppet, Chef, Ansible, etc.)
 66.	¿Es posible crear y configurar entornos de desarrollo, pruebas, (pre)producción bajo demanda (environment self-service, on-demand)? Por ej. un desarrollador podría crear su propio entorno de pruebas sin tickets ni esperas. 
 67.	¿Los scripts de configuración para gestionar la infraestructura son versionados, validados (testing infrastructure changes), y repetibles?
 68.	¿Cuál es la práctica habitual ante un cambio en la configuración?
