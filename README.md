@@ -12,7 +12,7 @@ This study conducts an exploratory case on practicing DevOps in software-intensi
 
 [CodeBook](https://github.com/jdiazfernandez/DevOpsInPractice/blob/master/codebook.md)
 
-[Intermediate results - Atlas.ti analysis] (https://blogs.upm.es/devopsinpractice/wp-content/uploads/sites/736/2020/04/Atlas.ti-Analysis.zip)
+[Intermediate results - Atlas.ti analysis](https://blogs.upm.es/devopsinpractice/wp-content/uploads/sites/736/2020/04/Atlas.ti-Analysis.zip) 
 
 ## Questions & Comments
 
