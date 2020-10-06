@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/203269311.svg)](https://zenodo.org/badge/latestdoi/203269311)
+
 ## DevOps in Practice project
 
 This project is an international exploratory case study on the DevOps culture and practice.
