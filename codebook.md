@@ -1,4 +1,4 @@
-## P01 TOO MUCH TIME FOR RELASING
+## P01 TOO MUCH TIME FOR RELEASING
 ● P01a: need for being more agile, rapid — Too much time for releasing new features into production. Need to reduce time to market, need for being more agile/rapid to adapt to market needs (demands) either new features or updates. Business demands more velocity that the velocity teams can offer. Too much time deploying, delivering, releasing new features and/or hotfixes. (If releasing takes too long, you run the risk that the product is unsatisfactory). =Accelerate time to market = Accelerate value delivery = Faster time to market. = Rapid customer response.  
 
 ● P01b: need for rapid and continuous feedback loops from ops to dev — Feedback from customers/market (or other systems) are demanding to developers (e.g. feedback to the backlog). Until the delivery of the product in pre-production/production environments (operation) there is almost no feedback to dev. Thus, there is no rapid and continuous feedback loops with small deliveries.
